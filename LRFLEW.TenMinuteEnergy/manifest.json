@@ -1,0 +1,10 @@
+{
+  "Id": "LRFLEW.TenMinuteEnergy",
+  "AssemblyPath": "LRFLEW.TenMinuteEnergy.dll",
+  "Metadata": {
+    "Name": "10 Minute Energy",
+    "Author": "LRFLEW",
+    "Version": "1.0.0",
+    "Description": "Drink Stacking Mod"
+  }
+}
