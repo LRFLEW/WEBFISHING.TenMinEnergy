@@ -1,12 +1,13 @@
 id = "LRFLEW.TenMinuteEnergy"
 name = "TenMinuteEnergy"
 description = "Drink Stacking Mod"
-version = "1.0.0"
+version = "1.0.1"
 homepage = "https://github.com/LRFLEW/WEBFISHING.TenMinEnergy"
 author = "LRFLEW"
 
 icon = "icon.png"
 readme = "README.md"
+changelog = "CHANGELOG.md"
 
 [project]
 csharp = "./LRFLEW.TenMinuteEnergy/LRFLEW.TenMinuteEnergy.csproj"
